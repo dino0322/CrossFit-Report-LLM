@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+numpy
+scikit-learn
+matplotlib
+PyMuPDF
+Pillow
+python-dotenv
+openai
+requests
